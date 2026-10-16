@@ -1,0 +1,18 @@
+{
+  "page.login.title": {
+    "en": "Login",
+    "id": "Masuk"
+  },
+  "page.dashboard.title": {
+    "en": "Dashboard",
+    "id": "Dasbor"
+  },
+  "page.profile.title": {
+    "en": "Profile",
+    "id": "Profil"
+  },
+  "page.applicationForm.title": {
+    "en": "Application Form",
+    "id": "Form Lamaran"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "dashboard.greeting.named": {
+    "en": "Dear, {name}",
+    "id": "Yth. {name}"
+  },
+  "dashboard.greeting.employee": {
+    "en": "Hello, Employee",
+    "id": "Halo, Karyawan"
+  },
+  "dashboard.greeting.candidate": {
+    "en": "Hello, Candidate",
+    "id": "Halo, Kandidat"
+  },
+  "dashboard.workspace.employee": {
+    "en": "Employee Workspace",
+    "id": "Workspace Karyawan"
+  },
+  "dashboard.workspace.candidate": {
+    "en": "Candidate Workspace",
+    "id": "Workspace Kandidat"
+  },
+  "dashboard.workspace.employeeDescription": {
+    "en": "This portal helps you complete your employee onboarding data and supporting documents.",
+    "id": "Portal ini membantu Anda melengkapi data onboarding karyawan dan dokumen pendukung."
+  },
+  "dashboard.workspace.candidateDescription": {
+    "en": "This portal helps you review your active applications and complete the profile details required during the recruitment process.",
+    "id": "Portal ini membantu Anda meninjau lamaran aktif dan melengkapi detail profil yang dibutuhkan selama proses rekrutmen."
+  },
+  "dashboard.profile.employeeSummary": {
+    "en": "Employee Summary",
+    "id": "Ringkasan Karyawan"
+  },
+  "dashboard.profile.candidateSummary": {
+    "en": "Candidate Summary",
+    "id": "Ringkasan Kandidat"
+  },
+  "dashboard.tip.title": {
+    "en": "A quick tip",
+    "id": "Info Penting"
+  },
+  "dashboard.tip.message": {
+    "en": "For the smoothest experience, we recommend filling out this form on a laptop or computer. Also, don't forget to click \"Save Draft\" before leaving the page so your progress isn't lost.",
+    "id": "Untuk kenyamanan saat mengisi, kami sarankan menggunakan laptop atau komputer. Jangan lupa juga klik tombol \"Simpan Draf\" sebelum meninggalkan halaman agar data yang sudah diisi tidak hilang."
+  },
+  "dashboard.profile.lastLogin": {
+    "en": "Last Login",
+    "id": "Login Terakhir"
+  },
+  "dashboard.applications.eyebrow": {
+    "en": "Applications",
+    "id": "Lamaran"
+  },
+  "dashboard.applications.title": {
+    "en": "Active Applications",
+    "id": "Lamaran Aktif"
+  },
+  "dashboard.applications.countLabel": {
+    "en": "applications",
+    "id": "lamaran"
+  },
+  "dashboard.applications.empty": {
+    "en": "There are no applications linked to this account yet.",
+    "id": "Belum ada lamaran yang terhubung dengan akun ini."
+  },
+  "dashboard.applications.actions.viewForm": {
+    "en": "View Form",
+    "id": "Lihat Form"
+  },
+  "dashboard.applications.actions.continueEmployeeForm": {
+    "en": "Continue Employee Form",
+    "id": "Lanjutkan Form Karyawan"
+  },
+  "dashboard.applications.actions.continueCandidateForm": {
+    "en": "Continue Candidate Form",
+    "id": "Lanjutkan Form Kandidat"
+  }
+}

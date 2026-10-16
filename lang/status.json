@@ -1,0 +1,30 @@
+{
+  "status.inactive": {
+    "en": "Inactive",
+    "id": "Tidak Aktif"
+  },
+  "status.revoked": {
+    "en": "Revoked",
+    "id": "Dicabut"
+  },
+  "status.active": {
+    "en": "Active",
+    "id": "Aktif"
+  },
+  "status.completed": {
+    "en": "Completed",
+    "id": "Selesai"
+  },
+  "status.inProgress": {
+    "en": "In Progress",
+    "id": "Sedang Dikerjakan"
+  },
+  "status.submitted": {
+    "en": "Submitted",
+    "id": "Dikirim"
+  },
+  "status.draft": {
+    "en": "Draft",
+    "id": "Draf"
+  }
+}

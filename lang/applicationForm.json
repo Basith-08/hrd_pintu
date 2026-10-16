@@ -1,0 +1,578 @@
+{
+  "applicationForm.errors.loadFailed": {
+    "en": "Failed to load the application form.",
+    "id": "Gagal memuat form lamaran."
+  },
+  "applicationForm.errors.saveFailed": {
+    "en": "Failed to save the application form.",
+    "id": "Gagal menyimpan form lamaran."
+  },
+  "applicationForm.errors.submitFailed": {
+    "en": "Failed to submit the application form.",
+    "id": "Gagal mengirim form lamaran."
+  },
+  "applicationForm.page.eyebrow.employee": {
+    "en": "Employee Form",
+    "id": "Form Karyawan"
+  },
+  "applicationForm.page.eyebrow.candidate": {
+    "en": "Candidate Form",
+    "id": "Form Kandidat"
+  },
+  "applicationForm.page.title.employee": {
+    "en": "Complete Your Employee Form",
+    "id": "Lengkapi Form Karyawan Anda"
+  },
+  "applicationForm.page.title.candidate": {
+    "en": "Complete Your Candidate Form",
+    "id": "Lengkapi Form Kandidat Anda"
+  },
+  "applicationForm.page.summary.employee": {
+    "en": "Complete your employee onboarding data, payroll information, and required supporting documents.",
+    "id": "Lengkapi data onboarding karyawan, informasi payroll, dan dokumen pendukung yang diperlukan."
+  },
+  "applicationForm.page.summary.candidate": {
+    "en": "Complete your personal details and supporting information for the recruitment process. Save a draft first if there is still information you want to complete later.",
+    "id": "Lengkapi data pribadi dan informasi pendukung untuk proses rekrutmen. Simpan sebagai draf terlebih dahulu jika masih ada informasi yang ingin dilengkapi nanti."
+  },
+  "applicationForm.summary.title": {
+    "en": "Application Summary",
+    "id": "Ringkasan Lamaran"
+  },
+  "applicationForm.sections.applicationData": {
+    "en": "Application Data",
+    "id": "Data Lamaran"
+  },
+  "applicationForm.fields.applicationDate": {
+    "en": "Application Date",
+    "id": "Tanggal Lamaran"
+  },
+  "applicationForm.fields.noticePeriod": {
+    "en": "Notice Period",
+    "id": "Periode Notice"
+  },
+  "applicationForm.fields.availableStartDate": {
+    "en": "Available Start Date",
+    "id": "Tanggal Mulai Tersedia"
+  },
+  "applicationForm.fields.joinDate": {
+    "en": "Join Date",
+    "id": "Tanggal Bergabung"
+  },
+  "applicationForm.fields.hireLocation": {
+    "en": "Hire Location",
+    "id": "Lokasi Penempatan"
+  },
+  "applicationForm.fields.fullName": {
+    "en": "Full Name",
+    "id": "Nama Lengkap"
+  },
+  "applicationForm.sections.personalData": {
+    "en": "Personal Data",
+    "id": "Data Pribadi"
+  },
+  "applicationForm.fields.placeOfBirth": {
+    "en": "Place of Birth",
+    "id": "Tempat Lahir"
+  },
+  "applicationForm.fields.dateOfBirth": {
+    "en": "Date of Birth",
+    "id": "Tanggal Lahir"
+  },
+  "applicationForm.fields.nationality": {
+    "en": "Nationality",
+    "id": "Kewarganegaraan"
+  },
+  "applicationForm.fields.religion": {
+    "en": "Religion",
+    "id": "Agama"
+  },
+  "applicationForm.fields.maritalStatus": {
+    "en": "Marital Status",
+    "id": "Status Pernikahan"
+  },
+  "applicationForm.fields.bloodType": {
+    "en": "Blood Type",
+    "id": "Golongan Darah"
+  },
+  "applicationForm.fields.selectBloodType": {
+    "en": "Select blood type",
+    "id": "Pilih golongan darah"
+  },
+  "applicationForm.fields.ethnic": {
+    "en": "Ethnic",
+    "id": "Suku"
+  },
+  "applicationForm.fields.photograph": {
+    "en": "Photograph",
+    "id": "Pas Foto"
+  },
+  "applicationForm.fields.photographSizeHelp": {
+    "en": "Use a 4 x 6 photograph.",
+    "id": "Gunakan pas foto ukuran 4 x 6."
+  },
+  "applicationForm.fields.photographPreviewAlt": {
+    "en": "Candidate photograph preview",
+    "id": "Pratinjau foto kandidat"
+  },
+  "applicationForm.sections.contactIdentity": {
+    "en": "Contact & Identity",
+    "id": "Kontak & Identitas"
+  },
+  "applicationForm.fields.idCardAddress": {
+    "en": "Address as per ID Card",
+    "id": "Alamat sesuai KTP"
+  },
+  "applicationForm.fields.residentialAddress": {
+    "en": "Domicile Address",
+    "id": "Alamat Domisili"
+  },
+  "applicationForm.fields.personalEmail": {
+    "en": "Email Address",
+    "id": "Alamat Email"
+  },
+  "applicationForm.fields.cellularPhone": {
+    "en": "Phone Number/ Home Number",
+    "id": "No Handphone/Telepon Rumah"
+  },
+  "applicationForm.fields.homePhone": {
+    "en": "Home Phone",
+    "id": "Telepon Rumah"
+  },
+  "applicationForm.fields.idType": {
+    "en": "ID Type",
+    "id": "Jenis Identitas"
+  },
+  "applicationForm.fields.idNumber": {
+    "en": "Identity Card Number (KTP/SIM)",
+    "id": "Nomor KTP/SIM"
+  },
+  "applicationForm.sections.familyEmergency": {
+    "en": "Family & Emergency",
+    "id": "Keluarga & Darurat"
+  },
+  "applicationForm.family.spouse.label": {
+    "en": "Spouse's Name",
+    "id": "Nama Pasangan"
+  },
+  "applicationForm.family.child.label": {
+    "en": "Children's Full Name",
+    "id": "Nama Lengkap Anak"
+  },
+  "applicationForm.family.parent.label": {
+    "en": "Parents Name",
+    "id": "Nama Orang Tua"
+  },
+  "applicationForm.family.parent.singleParentHint": {
+    "en": "If you only know one parent's name, enter \"-\" for the other.",
+    "id": "Jika hanya mengetahui nama satu orang tua, isi tanda \"-\" untuk yang lain."
+  },
+  "applicationForm.family.sibling.label": {
+    "en": "Siblings",
+    "id": "Saudara Kandung"
+  },
+  "applicationForm.family.other.label": {
+    "en": "Other Family",
+    "id": "Keluarga Lainnya"
+  },
+  "applicationForm.sections.educationTraining": {
+    "en": "Education & Training",
+    "id": "Pendidikan & Pelatihan"
+  },
+  "applicationForm.education.formalTitle": {
+    "en": "Formal Education",
+    "id": "Pendidikan Formal"
+  },
+  "applicationForm.education.nonFormalTitle": {
+    "en": "Training / Non-Formal Education",
+    "id": "Pelatihan / Pendidikan Non-Formal"
+  },
+  "applicationForm.education.nonFormalCaption": {
+    "en": "Training, courses, certifications, or non-formal education.",
+    "id": "Pelatihan, kursus, sertifikasi, atau pendidikan non-formal."
+  },
+  "applicationForm.education.actions.addTraining": {
+    "en": "Add Training",
+    "id": "Tambah Pelatihan"
+  },
+  "applicationForm.education.emptyNonFormal": {
+    "en": "No training or non-formal education data yet.",
+    "id": "Belum ada data pelatihan atau pendidikan non-formal."
+  },
+  "applicationForm.education.courseOfStudy": {
+    "en": "Course of Study",
+    "id": "Bidang Studi"
+  },
+  "applicationForm.sections.skillAbilities": {
+    "en": "Skill & Abilities",
+    "id": "Keahlian & Kemampuan"
+  },
+  "applicationForm.skills.foreignLanguageTitle": {
+    "en": "Foreign Language",
+    "id": "Bahasa Asing"
+  },
+  "applicationForm.skills.foreignLanguageCaption": {
+    "en": "Fill this with proficiency levels such as Good, Fair, or Poor.",
+    "id": "Isi dengan tingkat kemampuan seperti form pelamar: Baik, Cukup, atau Kurang."
+  },
+  "applicationForm.skills.actions.addLanguageRow": {
+    "en": "Add Language Row",
+    "id": "Tambah Baris Bahasa"
+  },
+  "applicationForm.skills.otherRelevantTitle": {
+    "en": "Other Relevant Skills",
+    "id": "Keahlian Relevan Lainnya"
+  },
+  "applicationForm.skills.actions.addSkillRow": {
+    "en": "Add Skill Row",
+    "id": "Tambah Baris Keahlian"
+  },
+  "applicationForm.skills.skillDescription": {
+    "en": "Skill / Description",
+    "id": "Keahlian / Deskripsi"
+  },
+  "applicationForm.skills.skillDescriptionPlaceholder": {
+    "en": "Describe the relevant skill",
+    "id": "Jelaskan keahlian yang relevan"
+  },
+  "applicationForm.skills.shortSkillName": {
+    "en": "Short Skill Name",
+    "id": "Nama Keahlian Singkat"
+  },
+  "applicationForm.sections.employmentHistory": {
+    "en": "Employment History",
+    "id": "Riwayat Pekerjaan"
+  },
+  "applicationForm.employment.description": {
+    "en": "Describe each position you have held in detail, starting from your current or most recent role.",
+    "id": "Jelaskan setiap jabatan yang Anda pegang secara rinci, mulai dari jabatan sekarang atau terakhir."
+  },
+  "applicationForm.employment.note": {
+    "en": "Please describe your work experience in detail, beginning with your current or most recent job.",
+    "id": "Mohon jelaskan pengalaman kerja Anda secara rinci, mulai dari pekerjaan saat ini atau yang terakhir."
+  },
+  "applicationForm.employment.companyAddress": {
+    "en": "Company Address",
+    "id": "Alamat Perusahaan"
+  },
+  "applicationForm.employment.companyPhone": {
+    "en": "Company Phone",
+    "id": "Telepon Perusahaan"
+  },
+  "applicationForm.employment.directSuperiorTitle": {
+    "en": "Direct Superior Title",
+    "id": "Jabatan Atasan Langsung"
+  },
+  "applicationForm.employment.lastSalary": {
+    "en": "Last Salary",
+    "id": "Gaji Terakhir"
+  },
+  "applicationForm.employment.benefitFacilities": {
+    "en": "Benefit / Facilities",
+    "id": "Benefit / Fasilitas"
+  },
+  "applicationForm.employment.reasonForLeaving": {
+    "en": "Reason for Leaving",
+    "id": "Alasan Berhenti"
+  },
+  "applicationForm.employment.organizationStructure": {
+    "en": "Organization Structure",
+    "id": "Struktur Organisasi"
+  },
+  "applicationForm.sections.referenceData": {
+    "en": "Reference Data",
+    "id": "Data Referensi"
+  },
+  "applicationForm.references.referenceName": {
+    "en": "Reference Name",
+    "id": "Nama Referensi"
+  },
+  "applicationForm.references.minimumRequired": {
+    "en": "Please provide at least 2 references.",
+    "id": "Mohon isi minimal 2 data referensi."
+  },
+  "applicationForm.sections.mobilityResidence": {
+    "en": "Mobility & Residence",
+    "id": "Mobilitas & Tempat Tinggal"
+  },
+  "applicationForm.mobility.transportationType": {
+    "en": "Transportation Type",
+    "id": "Jenis Transportasi"
+  },
+  "applicationForm.mobility.transportationOwnership": {
+    "en": "Transportation Ownership",
+    "id": "Kepemilikan Transportasi"
+  },
+  "applicationForm.mobility.selectOwnership": {
+    "en": "Select ownership",
+    "id": "Pilih kepemilikan"
+  },
+  "applicationForm.mobility.residenceOwnership": {
+    "en": "Residence Ownership",
+    "id": "Kepemilikan Tempat Tinggal"
+  },
+  "applicationForm.mobility.selectResidence": {
+    "en": "Select residence",
+    "id": "Pilih tempat tinggal"
+  },
+  "applicationForm.sections.personalStatement": {
+    "en": "Personal Statement",
+    "id": "Pernyataan Pribadi"
+  },
+  "applicationForm.personalStatement.currentlyBoundByContract": {
+    "en": "Currently bound by employment contract",
+    "id": "Saat ini masih terikat kontrak kerja"
+  },
+  "applicationForm.personalStatement.willingForBusinessTrips": {
+    "en": "Willing for business trips",
+    "id": "Bersedia melakukan perjalanan dinas"
+  },
+  "applicationForm.personalStatement.contractPeriod": {
+    "en": "Contract Period",
+    "id": "Periode Kontrak"
+  },
+  "applicationForm.personalStatement.expectedSalary": {
+    "en": "Expected Salary",
+    "id": "Gaji yang Diharapkan"
+  },
+  "applicationForm.personalStatement.allowReferenceCheck": {
+    "en": "Allow reference check with previous company",
+    "id": "Mengizinkan pengecekan referensi ke perusahaan sebelumnya"
+  },
+  "applicationForm.personalStatement.reasonIfNotAllowed": {
+    "en": "Reason if not allowed",
+    "id": "Alasan jika tidak diizinkan"
+  },
+  "applicationForm.personalStatement.haveFamilyOrFriends": {
+    "en": "Have family or friends in this company",
+    "id": "Memiliki keluarga atau teman di perusahaan ini"
+  },
+  "applicationForm.personalStatement.familyFriendDetails": {
+    "en": "Family/Friend Details",
+    "id": "Detail Keluarga/Teman"
+  },
+  "applicationForm.personalStatement.seriousIllness": {
+    "en": "Ever had serious illness / intensive treatment",
+    "id": "Pernah mengalami sakit berat / perawatan intensif"
+  },
+  "applicationForm.personalStatement.seriousIllnessDetails": {
+    "en": "Serious Illness Details",
+    "id": "Detail Penyakit Serius"
+  },
+  "applicationForm.personalStatement.seriousAccident": {
+    "en": "Ever had serious accident",
+    "id": "Pernah mengalami kecelakaan serius"
+  },
+  "applicationForm.personalStatement.seriousAccidentDetails": {
+    "en": "Serious Accident Details",
+    "id": "Detail Kecelakaan Serius"
+  },
+  "applicationForm.personalStatement.psychologicalTest": {
+    "en": "Ever taken psychological test",
+    "id": "Pernah mengikuti tes psikologi"
+  },
+  "applicationForm.personalStatement.psychologicalTestLocation": {
+    "en": "Psychological Test Location",
+    "id": "Lokasi Tes Psikologi"
+  },
+  "applicationForm.personalStatement.psychologicalTestPurpose": {
+    "en": "Psychological Test Purpose",
+    "id": "Tujuan Tes Psikologi"
+  },
+  "applicationForm.personalStatement.companyLegalIssue": {
+    "en": "Ever involved in legal issue with a company",
+    "id": "Pernah terlibat masalah hukum dengan perusahaan"
+  },
+  "applicationForm.personalStatement.companyLegalIssueDetails": {
+    "en": "Company Legal Issue Details",
+    "id": "Detail Masalah Hukum Perusahaan"
+  },
+  "applicationForm.personalStatement.civilOrCriminalCase": {
+    "en": "Ever involved in civil or criminal case",
+    "id": "Pernah terlibat perkara perdata atau pidana"
+  },
+  "applicationForm.personalStatement.civilOrCriminalCaseDetails": {
+    "en": "Civil/Criminal Case Details",
+    "id": "Detail Kasus Perdata/Pidana"
+  },
+  "applicationForm.personalStatement.previousApplication": {
+    "en": "Have applied to this company before",
+    "id": "Pernah melamar ke perusahaan ini sebelumnya"
+  },
+  "applicationForm.personalStatement.previousApplicationDetails": {
+    "en": "Previous Application Details",
+    "id": "Detail Lamaran Sebelumnya"
+  },
+  "applicationForm.sections.payrollStatutoryData": {
+    "en": "Payroll & Statutory Data",
+    "id": "Payroll & Data Kepatuhan"
+  },
+  "applicationForm.payroll.registeredBankName": {
+    "en": "Registered Bank Name",
+    "id": "Nama Bank Terdaftar"
+  },
+  "applicationForm.payroll.bankAccountNumber": {
+    "en": "Bank Account Number",
+    "id": "Nomor Rekening"
+  },
+  "applicationForm.payroll.accountHolderName": {
+    "en": "Account Holder Name",
+    "id": "Nama Pemilik Rekening"
+  },
+  "applicationForm.payroll.branchName": {
+    "en": "Branch Name",
+    "id": "Nama Cabang"
+  },
+  "applicationForm.payroll.bpjsHealth": {
+    "en": "BPJS Health",
+    "id": "BPJS Kesehatan"
+  },
+  "applicationForm.payroll.bpjsEmployment": {
+    "en": "BPJS Employment",
+    "id": "BPJS Ketenagakerjaan"
+  },
+  "applicationForm.payroll.selectPreference": {
+    "en": "Select preference",
+    "id": "Pilih preferensi"
+  },
+  "applicationForm.payroll.bpjsHealthPreference.willingToEnroll": {
+    "en": "Willing to enroll",
+    "id": "Bersedia mendaftar"
+  },
+  "applicationForm.payroll.bpjsHealthPreference.declineEnrollment": {
+    "en": "Decline enrollment",
+    "id": "Menolak pendaftaran"
+  },
+  "applicationForm.payroll.bpjsHealthDeclineReason": {
+    "en": "BPJS Health Decline Reason",
+    "id": "Alasan Menolak BPJS Kesehatan"
+  },
+  "applicationForm.payroll.selectReason": {
+    "en": "Select reason",
+    "id": "Pilih alasan"
+  },
+  "applicationForm.payroll.bpjsHealthDeclineOption.selfRegistered": {
+    "en": "Self registered",
+    "id": "Daftar mandiri"
+  },
+  "applicationForm.payroll.bpjsHealthDeclineOption.localGovernment": {
+    "en": "Local government",
+    "id": "Pemerintah daerah"
+  },
+  "applicationForm.payroll.otherBpjsHealthReason": {
+    "en": "Other BPJS Health Reason",
+    "id": "Alasan Lain BPJS Kesehatan"
+  },
+  "applicationForm.payroll.bpjsEmploymentStatus.cashOutFirst": {
+    "en": "Cash out first",
+    "id": "Cairkan terlebih dahulu"
+  },
+  "applicationForm.payroll.bpjsEmploymentStatus.enrollAsNew": {
+    "en": "Enroll as new",
+    "id": "Daftar sebagai baru"
+  },
+  "applicationForm.payroll.bpjsEmploymentStatus.continueExisting": {
+    "en": "Continue existing",
+    "id": "Lanjutkan yang sudah ada"
+  },
+  "applicationForm.sections.employeeDocuments": {
+    "en": "Employee Documents",
+    "id": "Dokumen Karyawan"
+  },
+  "applicationForm.sections.candidateDocuments": {
+    "en": "Candidate Documents",
+    "id": "Dokumen Kandidat"
+  },
+  "applicationForm.wizard.eyebrow": {
+    "en": "Form Steps",
+    "id": "Tahapan Form"
+  },
+  "applicationForm.wizard.ariaLabel": {
+    "en": "Application form steps",
+    "id": "Tahapan form aplikasi"
+  },
+  "applicationForm.wizard.progress": {
+    "en": "Step {current} of {total}",
+    "id": "Tahap {current} dari {total}"
+  },
+  "applicationForm.actions.saveDraft": {
+    "en": "Save Draft",
+    "id": "Simpan Draf"
+  },
+  "applicationForm.actions.previousStep": {
+    "en": "Back",
+    "id": "Kembali"
+  },
+  "applicationForm.actions.nextStep": {
+    "en": "Next",
+    "id": "Lanjut"
+  },
+  "applicationForm.actions.jumpToStep": {
+    "en": "Go to step",
+    "id": "Pilih tahap"
+  },
+  "applicationForm.actions.saveDraftFirstHintCandidate": {
+    "en": "Complete all required fields across every step, then save your draft so your photo and documents are registered before you submit.",
+    "id": "Lengkapi semua field wajib di setiap tahap, lalu simpan draf agar foto dan dokumen yang diunggah tersimpan sebelum Anda mengirim."
+  },
+  "applicationForm.actions.saveDraftFirstHintEmployee": {
+    "en": "Complete all required fields across every step, then save your draft so your documents are registered before you submit.",
+    "id": "Lengkapi semua field wajib di setiap tahap, lalu simpan draf agar dokumen yang diunggah tersimpan sebelum Anda mengirim."
+  },
+  "applicationForm.actions.submitEmployeeForm": {
+    "en": "Submit Employee Form",
+    "id": "Kirim Form Karyawan"
+  },
+  "applicationForm.actions.submitApplication": {
+    "en": "Submit Application",
+    "id": "Kirim Lamaran"
+  },
+  "applicationForm.feedback.employeeDraftSaved": {
+    "en": "Draft employee form saved successfully.",
+    "id": "Draf form karyawan berhasil disimpan."
+  },
+  "applicationForm.feedback.candidateDraftSaved": {
+    "en": "Draft candidate form saved successfully.",
+    "id": "Draf form kandidat berhasil disimpan."
+  },
+  "applicationForm.feedback.candidateDraftSavedIncomplete": {
+    "en": "Draft saved. Required sections not yet complete: {sections}.",
+    "id": "Draf berhasil disimpan. Bagian wajib yang belum lengkap: {sections}."
+  },
+  "applicationForm.autosave.saving": {
+    "en": "Saving...",
+    "id": "Menyimpan..."
+  },
+  "applicationForm.autosave.saved": {
+    "en": "Saved",
+    "id": "Tersimpan"
+  },
+  "applicationForm.autosave.offline": {
+    "en": "Offline — changes are saved on this device",
+    "id": "Offline — perubahan disimpan di perangkat ini"
+  },
+  "applicationForm.autosave.syncFailed": {
+    "en": "Sync failed — changes are saved on this device",
+    "id": "Sinkronisasi gagal — perubahan disimpan di perangkat ini"
+  },
+  "applicationForm.confirm.submitEmployee": {
+    "en": "Submit this employee form now?",
+    "id": "Kirim form karyawan ini sekarang?"
+  },
+  "applicationForm.confirm.submitCandidate": {
+    "en": "Submit this candidate form now?",
+    "id": "Kirim form kandidat ini sekarang?"
+  },
+  "applicationForm.feedback.employeeSubmitted": {
+    "en": "Employee form submitted successfully.",
+    "id": "Form karyawan berhasil dikirim."
+  },
+  "applicationForm.feedback.candidateSubmitted": {
+    "en": "Candidate form submitted successfully.",
+    "id": "Form kandidat berhasil dikirim."
+  },
+  "applicationForm.validation.completeRequiredFields": {
+    "en": "Complete all required fields before submitting. You can still save this form as a draft.",
+    "id": "Lengkapi semua field wajib sebelum submit. Form ini tetap bisa disimpan sebagai draf."
+  }
+}

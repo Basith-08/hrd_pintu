@@ -1,0 +1,14 @@
+export const HRD_PINTU_SYNC_BASE_URL = process.env.HRD_PINTU_SYNC_BASE_URL
+export const HRD_PINTU_SYNC_TOKEN = process.env.HRD_PINTU_SYNC_TOKEN
+export const INTERNAL_SERVICE_TOKEN = process.env.INTERNAL_SERVICE_TOKEN
+export const CANDIDATE_PHOTOGRAPH_BUCKET =
+  process.env.NUXT_PUBLIC_CANDIDATE_PHOTOGRAPH_BUCKET ??
+  process.env.VITE_CANDIDATE_PHOTOGRAPH_BUCKET ??
+  "candidate-photographs"
+export const CANDIDATE_DOCUMENT_BUCKET =
+  process.env.NUXT_PUBLIC_CANDIDATE_DOCUMENT_BUCKET ??
+  process.env.VITE_CANDIDATE_DOCUMENT_BUCKET ??
+  "candidate-documents"
+export const SUPABASE_URL =
+  process.env.SUPABASE_URL ?? process.env.NUXT_PUBLIC_SUPABASE_URL ?? process.env.VITE_SUPABASE_URL
+export const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY

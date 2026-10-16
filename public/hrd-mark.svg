@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-labelledby="title">
+  <title>HRD</title>
+  <rect width="192" height="192" rx="48" fill="#123b4a"/>
+  <path d="M45 55h25v31h52V55h25v82h-25v-29H70v29H45z" fill="#f4fbf9"/>
+  <circle cx="145" cy="55" r="9" fill="#52c7ad"/>
+</svg>

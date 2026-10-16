@@ -1,0 +1,102 @@
+{
+  "files.selectedFile": {
+    "en": "Selected file:",
+    "id": "File terpilih:"
+  },
+  "files.requiredDocument": {
+    "en": "Required document.",
+    "id": "Dokumen wajib."
+  },
+  "files.optionalDocument": {
+    "en": "Optional unless requested by HR.",
+    "id": "Opsional kecuali diminta oleh HR."
+  },
+  "files.file": {
+    "en": "file",
+    "id": "file"
+  },
+  "files.files": {
+    "en": "files",
+    "id": "file"
+  },
+  "files.selectedFiles": {
+    "en": "Selected files:",
+    "id": "File terpilih:"
+  },
+  "files.downloadTemplate": {
+    "en": "Download Template",
+    "id": "Unduh Template"
+  },
+  "files.templateInstructions": {
+    "en": "Download the template, fill it in, then upload the completed file.",
+    "id": "Unduh template, isi, lalu unggah kembali file template yang sudah diisi."
+  },
+  "files.multipleAllowed": {
+    "en": "Multiple files are allowed for this document type.",
+    "id": "Beberapa file diperbolehkan untuk jenis dokumen ini."
+  },
+  "files.savedFiles": {
+    "en": "Saved files:",
+    "id": "File tersimpan:"
+  },
+  "files.removalAppliedLater": {
+    "en": "Removed files will be applied after you save or submit the form.",
+    "id": "Penghapusan file akan diterapkan setelah Anda menyimpan atau mengirim form."
+  },
+  "files.errors.photographTooLarge": {
+    "en": "Photograph must be 5 MB or smaller.",
+    "id": "Foto harus berukuran 5 MB atau kurang."
+  },
+  "files.errors.documentTooLarge": {
+    "en": "{documentLabel} must be 10 MB or smaller.",
+    "id": "{documentLabel} harus berukuran 10 MB atau kurang."
+  },
+  "files.errors.documentMustBePdf": {
+    "en": "{documentLabel} must be uploaded as a PDF file.",
+    "id": "{documentLabel} harus diunggah dalam format PDF."
+  },
+  "files.errors.authenticatedUserRequired": {
+    "en": "You must be logged in before uploading files.",
+    "id": "Anda harus login terlebih dahulu sebelum mengunggah file."
+  },
+  "files.errors.uploadPhotographFailed": {
+    "en": "Failed to upload the photograph.",
+    "id": "Gagal mengunggah foto."
+  },
+  "files.errors.uploadDocumentFailed": {
+    "en": "Failed to upload {documentLabel}.",
+    "id": "Gagal mengunggah {documentLabel}."
+  },
+  "files.haermesGuide.title": {
+    "en": "Haermes Mobile Guide",
+    "id": "Panduan Haermes Mobile"
+  },
+  "files.haermesGuide.description": {
+    "en": "Download the following Haermes guide, which will later be used for attendance.",
+    "id": "Download panduan Haermes berikut yang nanti akan digunakan untuk absensi."
+  },
+  "files.haermesGuide.downloadButton": {
+    "en": "Download Guide",
+    "id": "Unduh Panduan"
+  },
+  "files.haermesGuide.loginNote": {
+    "en": "Use the following details to log in to the Haermes app:",
+    "id": "Gunakan data berikut untuk login ke aplikasi Haermes:"
+  },
+  "files.haermesGuide.userIdLabel": {
+    "en": "User ID (NIK)",
+    "id": "User ID (NIK)"
+  },
+  "files.haermesGuide.userIdFallback": {
+    "en": "Matches the Employee Code in HRD Ruang",
+    "id": "Sesuai Kode Karyawan pada HRD Ruang"
+  },
+  "files.haermesGuide.passwordLabel": {
+    "en": "Default Password",
+    "id": "Password Default"
+  },
+  "files.integrityPactPrintNote": {
+    "en": "After filling it in, this document must be printed (hard copy) and affixed with a stamp duty (materai).",
+    "id": "Setelah diisi, dokumen ini wajib dicetak (hard copy) dan ditempel materai."
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "common.email": {
+    "en": "Email",
+    "id": "Email"
+  },
+  "common.processing": {
+    "en": "Processing...",
+    "id": "Memproses..."
+  },
+  "common.loading": {
+    "en": "Loading...",
+    "id": "Memuat..."
+  },
+  "common.actions.logout": {
+    "en": "Log Out",
+    "id": "Keluar"
+  },
+  "common.actions.back": {
+    "en": "Back",
+    "id": "Kembali"
+  },
+  "common.actions.next": {
+    "en": "Next",
+    "id": "Lanjut"
+  },
+  "common.name": {
+    "en": "Name",
+    "id": "Nama"
+  },
+  "common.phone": {
+    "en": "Phone",
+    "id": "Telepon"
+  },
+  "common.instagram": {
+    "en": "Instagram",
+    "id": "Instagram"
+  },
+  "common.linkedin": {
+    "en": "LinkedIn",
+    "id": "LinkedIn"
+  },
+  "common.updated": {
+    "en": "Updated",
+    "id": "Diperbarui"
+  },
+  "common.gender": {
+    "en": "Gender",
+    "id": "Jenis Kelamin"
+  },
+  "common.select.gender": {
+    "en": "Select gender",
+    "id": "Pilih jenis kelamin"
+  },
+  "common.genderOptions.male": {
+    "en": "Male",
+    "id": "Laki-laki"
+  },
+  "common.genderOptions.female": {
+    "en": "Female",
+    "id": "Perempuan"
+  },
+  "common.select.status": {
+    "en": "Select status",
+    "id": "Pilih status"
+  },
+  "common.maritalStatus.single": {
+    "en": "Single",
+    "id": "Belum Menikah"
+  },
+  "common.maritalStatus.married": {
+    "en": "Married",
+    "id": "Menikah"
+  },
+  "common.maritalStatus.divorced": {
+    "en": "Divorced",
+    "id": "Cerai"
+  },
+  "common.contact": {
+    "en": "Contact",
+    "id": "Kontak"
+  },
+  "common.family": {
+    "en": "Family",
+    "id": "Keluarga"
+  },
+  "common.actions.add": {
+    "en": "Add",
+    "id": "Tambah"
+  },
+  "common.emptyDataByLabel": {
+    "en": "No {label} data yet.",
+    "id": "Belum ada data {label} untuk saat ini."
+  },
+  "common.relationship": {
+    "en": "Relationship",
+    "id": "Hubungan"
+  },
+  "common.occupation": {
+    "en": "Occupation",
+    "id": "Pekerjaan"
+  },
+  "common.placeAndDateOfBirth": {
+    "en": "Place and Date of Birth",
+    "id": "Tempat dan Tanggal Lahir"
+  },
+  "common.education": {
+    "en": "Education",
+    "id": "Pendidikan"
+  },
+  "common.remarks": {
+    "en": "Remarks",
+    "id": "Keterangan"
+  },
+  "common.description": {
+    "en": "Description",
+    "id": "Deskripsi"
+  },
+  "common.category": {
+    "en": "Category",
+    "id": "Kategori"
+  },
+  "common.select.category": {
+    "en": "Select category",
+    "id": "Pilih kategori"
+  },
+  "common.familyCategory.spouse": {
+    "en": "Spouse",
+    "id": "Pasangan"
+  },
+  "common.familyCategory.child": {
+    "en": "Child",
+    "id": "Anak"
+  },
+  "common.familyCategory.parent": {
+    "en": "Parent",
+    "id": "Orang Tua"
+  },
+  "common.familyCategory.sibling": {
+    "en": "Sibling",
+    "id": "Saudara"
+  },
+  "common.familyCategory.emergencyContact": {
+    "en": "Emergency Contact",
+    "id": "Kontak Darurat"
+  },
+  "common.parentRelationship.father": {
+    "en": "Father",
+    "id": "Ayah"
+  },
+  "common.parentRelationship.mother": {
+    "en": "Mother",
+    "id": "Ibu"
+  },
+  "common.option.other": {
+    "en": "Other",
+    "id": "Lainnya"
+  },
+  "common.actions.removeItem": {
+    "en": "Remove item",
+    "id": "Hapus item"
+  },
+  "common.level": {
+    "en": "Level",
+    "id": "Jenjang"
+  },
+  "common.institution": {
+    "en": "Institution",
+    "id": "Institusi"
+  },
+  "common.fromYear": {
+    "en": "From Year",
+    "id": "Dari Tahun"
+  },
+  "common.toYear": {
+    "en": "To Year",
+    "id": "Sampai Tahun"
+  },
+  "common.select.year": {
+    "en": "Select year",
+    "id": "Pilih tahun"
+  },
+  "common.descriptionRemarks": {
+    "en": "Description / Remarks",
+    "id": "Deskripsi / Keterangan"
+  },
+  "common.city": {
+    "en": "City",
+    "id": "Kota"
+  },
+  "common.language": {
+    "en": "Language",
+    "id": "Bahasa"
+  },
+  "common.proficiency.speaking": {
+    "en": "Speaking",
+    "id": "Berbicara"
+  },
+  "common.proficiency.reading": {
+    "en": "Reading",
+    "id": "Membaca"
+  },
+  "common.proficiency.listening": {
+    "en": "Listening",
+    "id": "Mendengarkan"
+  },
+  "common.proficiency.writing": {
+    "en": "Writing",
+    "id": "Menulis"
+  },
+  "common.select.default": {
+    "en": "Select",
+    "id": "Pilih"
+  },
+  "common.proficiencyOptions.good": {
+    "en": "Good",
+    "id": "Baik"
+  },
+  "common.proficiencyOptions.fair": {
+    "en": "Fair",
+    "id": "Cukup"
+  },
+  "common.proficiencyOptions.poor": {
+    "en": "Poor",
+    "id": "Kurang"
+  },
+  "common.company": {
+    "en": "Company",
+    "id": "Perusahaan"
+  },
+  "common.position": {
+    "en": "Position",
+    "id": "Posisi"
+  },
+  "common.option.personal": {
+    "en": "Personal",
+    "id": "Milik Pribadi"
+  },
+  "common.option.office": {
+    "en": "Office",
+    "id": "Kantor"
+  },
+  "common.residenceOwnership.rent": {
+    "en": "Rent",
+    "id": "Sewa"
+  },
+  "common.residenceOwnership.boarding": {
+    "en": "Boarding",
+    "id": "Kos"
+  },
+  "common.residenceOwnership.parents": {
+    "en": "Parents",
+    "id": "Orang Tua"
+  },
+  "common.taxIdentificationNumber": {
+    "en": "Tax Identification Number",
+    "id": "Nomor Pokok Wajib Pajak (NPWP)"
+  },
+  "common.actions.remove": {
+    "en": "Remove",
+    "id": "Hapus"
+  },
+  "common.actions.close": {
+    "en": "Close",
+    "id": "Tutup"
+  },
+  "common.saving": {
+    "en": "Saving...",
+    "id": "Menyimpan..."
+  },
+  "common.submitting": {
+    "en": "Submitting...",
+    "id": "Mengirim..."
+  },
+  "common.errors.notAuthenticated": {
+    "en": "You are not authenticated.",
+    "id": "Anda belum terautentikasi."
+  },
+  "common.errors.requestTimedOut": {
+    "en": "The request timed out. Please try again.",
+    "id": "Permintaan melebihi batas waktu. Silakan coba lagi."
+  },
+  "common.errors.requestFailed": {
+    "en": "The request could not be completed.",
+    "id": "Permintaan tidak dapat diselesaikan."
+  }
+}

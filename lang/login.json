@@ -1,0 +1,26 @@
+{
+  "login.hero.title": {
+    "en": "Your next career step starts here.",
+    "id": "Langkah karier Anda dimulai di sini."
+  },
+  "login.fields.password": {
+    "en": "Password",
+    "id": "Kata Sandi"
+  },
+  "login.fields.passwordPlaceholder": {
+    "en": "Enter your password",
+    "id": "Masukkan kata sandi Anda"
+  },
+  "login.actions.hidePassword": {
+    "en": "Hide password",
+    "id": "Sembunyikan kata sandi"
+  },
+  "login.actions.showPassword": {
+    "en": "Show password",
+    "id": "Tampilkan kata sandi"
+  },
+  "login.actions.signIn": {
+    "en": "Sign In",
+    "id": "Masuk"
+  }
+}

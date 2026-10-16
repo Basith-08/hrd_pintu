@@ -1,0 +1,32 @@
+{
+  "name": "hrd-pintu",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.32.1",
+  "scripts": {
+    "sync:templates": "node scripts/sync-template-assets.mjs",
+    "dev": "npm run sync:templates && nuxt dev",
+    "build": "npm run sync:templates && nuxt build",
+    "preview": "nuxt preview",
+    "postinstall": "npm run sync:templates && nuxt prepare",
+    "type-check": "npm run sync:templates && nuxt typecheck"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-sans": "^5.2.8",
+    "@pinia/nuxt": "^0.11.3",
+    "@supabase/supabase-js": "^2.99.2",
+    "nuxt": "^4.4.2",
+    "pinia": "^3.0.4",
+    "vue": "^3.5.29"
+  },
+  "devDependencies": {
+    "@types/node": "^24.11.0",
+    "@vue/language-core": "^3.2.7",
+    "typescript": "~5.9.3",
+    "vue-tsc": "^3.2.7"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  }
+}

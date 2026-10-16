@@ -1,0 +1,62 @@
+{
+  "documents.integrityPact": {
+    "en": "Integrity Pact",
+    "id": "Pakta Integritas"
+  },
+  "documents.emailUsagePolicy": {
+    "en": "Email Usage Policy",
+    "id": "Kebijakan Penggunaan Email"
+  },
+  "documents.identityCard": {
+    "en": "Identity Card (KTP/SIM)",
+    "id": "Kartu Identitas (KTP/SIM)"
+  },
+  "documents.familyCard": {
+    "en": "Family Card (KK)",
+    "id": "Kartu Keluarga (KK)"
+  },
+  "documents.latestDiploma": {
+    "en": "Latest Degree Certificate",
+    "id": "Ijazah Terakhir"
+  },
+  "documents.academicTranscript": {
+    "en": "Academic Transcript",
+    "id": "Transkrip Akademik"
+  },
+  "documents.certificateOfEmployment": {
+    "en": "Certificate of Employment (CoE)",
+    "id": "Surat Paklaring"
+  },
+  "documents.bankAccountBook": {
+    "en": "Bank Account Book",
+    "id": "Buku Tabungan"
+  },
+  "documents.bpjsHealthCard": {
+    "en": "BPJS Health Card",
+    "id": "Kartu BPJS Kesehatan"
+  },
+  "documents.bpjsHealthStatement": {
+    "en": "BPJS Health Statement",
+    "id": "Surat Pernyataan BPJS Kesehatan"
+  },
+  "documents.bpjsEmploymentCard": {
+    "en": "BPJS Employment Card",
+    "id": "Kartu BPJS Ketenagakerjaan"
+  },
+  "documents.previewWindow.integrityPact": {
+    "en": "Integrity Pact PDF",
+    "id": "PDF Pakta Integritas"
+  },
+  "documents.previewWindow.emailUsagePolicy": {
+    "en": "Email Usage Policy PDF",
+    "id": "PDF Kebijakan Penggunaan Email"
+  },
+  "documents.previewWindow.couldNotOpen": {
+    "en": "The {title} preview window could not be opened.",
+    "id": "Jendela pratinjau {title} tidak dapat dibuka."
+  },
+  "documents.previewWindow.unsupported": {
+    "en": "Generated employee document template is not supported.",
+    "id": "Template dokumen karyawan yang dibuat otomatis tidak didukung."
+  }
+}

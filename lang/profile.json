@@ -1,0 +1,94 @@
+{
+  "profile.eyebrow.employee": {
+    "en": "Employee Profile",
+    "id": "Profil Karyawan"
+  },
+  "profile.eyebrow.candidate": {
+    "en": "Candidate Profile",
+    "id": "Profil Kandidat"
+  },
+  "profile.title.employee": {
+    "en": "Employee Account Details",
+    "id": "Detail Akun Karyawan"
+  },
+  "profile.title.candidate": {
+    "en": "Candidate Account Details",
+    "id": "Detail Akun Kandidat"
+  },
+  "profile.summary.employee": {
+    "en": "Review your account information and update your sign-in password here.",
+    "id": "Tinjau informasi akun Anda dan perbarui kata sandi masuk di sini."
+  },
+  "profile.summary.candidate": {
+    "en": "Review your account information and update your sign-in password here.",
+    "id": "Tinjau informasi akun Anda dan perbarui kata sandi masuk di sini."
+  },
+  "profile.actions.backToDashboard": {
+    "en": "Back to Dashboard",
+    "id": "Kembali ke Dasbor"
+  },
+  "profile.actions.openAccount": {
+    "en": "Account",
+    "id": "Akun"
+  },
+  "profile.actions.updatePassword": {
+    "en": "Update Password",
+    "id": "Perbarui Kata Sandi"
+  },
+  "profile.actions.updatingPassword": {
+    "en": "Updating Password...",
+    "id": "Memperbarui Kata Sandi..."
+  },
+  "profile.fields.fullName": {
+    "en": "Full Name",
+    "id": "Nama Lengkap"
+  },
+  "profile.fields.phoneNumber": {
+    "en": "Phone Number",
+    "id": "Nomor Telepon"
+  },
+  "profile.fields.accountStatus": {
+    "en": "Account Status",
+    "id": "Status Akun"
+  },
+  "profile.sections.account": {
+    "en": "Account Information",
+    "id": "Informasi Akun"
+  },
+  "profile.sections.password": {
+    "en": "Change Password",
+    "id": "Ganti Kata Sandi"
+  },
+  "profile.password.description": {
+    "en": "Use your current password to confirm this change.",
+    "id": "Gunakan kata sandi saat ini untuk mengonfirmasi perubahan ini."
+  },
+  "profile.password.note": {
+    "en": "Use at least 6 characters.",
+    "id": "Gunakan minimal 6 karakter."
+  },
+  "profile.fields.currentPassword": {
+    "en": "Current Password",
+    "id": "Kata Sandi Saat Ini"
+  },
+  "profile.fields.newPassword": {
+    "en": "New Password",
+    "id": "Kata Sandi Baru"
+  },
+  "profile.fields.confirmNewPassword": {
+    "en": "Confirm New Password",
+    "id": "Konfirmasi Kata Sandi Baru"
+  },
+  "profile.fields.currentPasswordPlaceholder": {
+    "en": "Enter your current password",
+    "id": "Masukkan kata sandi saat ini"
+  },
+  "profile.fields.newPasswordPlaceholder": {
+    "en": "Enter your new password",
+    "id": "Masukkan kata sandi baru"
+  },
+  "profile.fields.confirmNewPasswordPlaceholder": {
+    "en": "Repeat your new password",
+    "id": "Ulangi kata sandi baru Anda"
+  }
+}
