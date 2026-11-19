@@ -6,18 +6,19 @@
 
 Strategi testing aktual yang realistis untuk repo ini:
 
-1. verifikasi manual flow login, dashboard, profil, form, dan upload
-2. verifikasi internal API utama dengan `curl` atau client integrator
-3. verifikasi storage policy dan RLS di environment Supabase
+1. `pnpm test` untuk endpoint cron keep-alive; lihat [panduan keep-alive](19-supabase-keepalive.md)
+2. verifikasi manual flow login, dashboard, profil, form, dan upload
+3. verifikasi internal API utama dengan `curl` atau client integrator
+4. verifikasi storage policy dan RLS di environment Supabase
 
 ## Otomasi Test Yang Ditemukan
 
 | Jenis | Status |
 | --- | --- |
-| Unit test | Belum ditemukan di repository |
+| Unit test | Vitest: `tests/keepalive.test.ts` (handler H3 dan Supabase JS, HTTP database tiruan) |
 | Integration test | Belum ditemukan di repository |
 | E2E test | Belum ditemukan di repository |
-| Test runner dependency (`vitest`, `jest`, `playwright`, `cypress`) | Belum ditemukan di `package.json` |
+| Test runner dependency | `vitest` (development dependency) |
 
 ## Command Validasi Teknis Minimum
 

@@ -50,7 +50,13 @@ pnpm preview
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "installCommand": "pnpm install --frozen-lockfile",
-  "buildCommand": "pnpm build"
+  "buildCommand": "pnpm build",
+  "crons": [
+    {
+      "path": "/api/cron/keepalive",
+      "schedule": "0 15 */3 * *"
+    }
+  ]
 }
 ```
 
@@ -71,12 +77,14 @@ Wajib:
 - `NUXT_PUBLIC_CANDIDATE_PHOTOGRAPH_BUCKET`
 - `NUXT_PUBLIC_CANDIDATE_DOCUMENT_BUCKET`
 - `SUPABASE_SERVICE_ROLE_KEY`
+- `CRON_SECRET` (server-only, untuk Vercel Cron keep-alive)
 - `INTERNAL_SERVICE_TOKEN`
 - `HRD_PINTU_SYNC_BASE_URL`
 - `HRD_PINTU_SYNC_TOKEN`
 
 Opsional:
 
+- `SUPABASE_URL` (override URL backend; tidak diperlukan jika `NUXT_PUBLIC_SUPABASE_URL` sudah tersedia)
 - `NUXT_PUBLIC_EMPLOYEE_DOCUMENT_BUCKET`
 
 ## Checklist Sebelum Deploy
@@ -129,6 +137,9 @@ Opsional:
 4. Nonaktifkan sementara sinkronisasi event dengan mengosongkan `HRD_PINTU_SYNC_BASE_URL` atau `HRD_PINTU_SYNC_TOKEN` bila external integration mengganggu operasi utama.
 
 ## Catatan Penting
+
+Panduan migration heartbeat, pengujian endpoint, Vercel Logs, dan verifikasi timestamp:
+[Supabase Keep-Alive](19-supabase-keepalive.md).
 
 1. Meskipun `ssr: false`, project ini tetap memiliki backend route di folder `server/`, sehingga deployment harus mendukung Nitro server output.
 2. Migrasi database dijalankan manual; ini perlu disiplin operasional saat deploy antar environment.

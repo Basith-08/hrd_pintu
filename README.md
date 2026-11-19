@@ -38,7 +38,7 @@ Dokumentasi ini mengikuti implementasi aktual di repository `hrd_pintu`. Fitur s
 - Export Configuration
 - UI manajemen user/admin di aplikasi ini
 - Audit log table khusus
-- Otomasi unit/integration/E2E test
+- Otomasi test untuk flow aplikasi selain endpoint cron keep-alive
 
 ## Struktur Folder Ringkas
 
@@ -111,6 +111,8 @@ pnpm preview
 | `NUXT_PUBLIC_CANDIDATE_DOCUMENT_BUCKET` | public | bucket dokumen kandidat/employee, default `candidate-documents` |
 | `NUXT_PUBLIC_EMPLOYEE_DOCUMENT_BUCKET` | public | fallback config bucket employee; tidak ditemukan penggunaan aktif di source runtime saat ini |
 | `SUPABASE_SERVICE_ROLE_KEY` | private | service role untuk route/service backend |
+| `SUPABASE_URL` | server, opsional | override URL backend; tidak perlu diisi jika `NUXT_PUBLIC_SUPABASE_URL` sudah tersedia |
+| `CRON_SECRET` | private | secret Bearer untuk Vercel Cron keep-alive |
 | `INTERNAL_SERVICE_TOKEN` | private | token header `x-internal-service-token` untuk internal API |
 | `HRD_PINTU_SYNC_BASE_URL` | private | base URL push event ke `hrd_ruang` |
 | `HRD_PINTU_SYNC_TOKEN` | private | token header `x-hrd-pintu-sync-token` saat push event |
@@ -189,6 +191,7 @@ Detail deploy ada di [docs/14-deployment.md](docs/14-deployment.md).
 - [16 Error Handling](docs/16-error-handling.md)
 - [17 Maintenance Guide](docs/17-maintenance-guide.md)
 - [18 Changelog](docs/18-changelog.md)
+- [19 Supabase Keep-Alive](docs/19-supabase-keepalive.md)
 
 Dokumen lama yang masih relevan sebagai lampiran historis:
 
